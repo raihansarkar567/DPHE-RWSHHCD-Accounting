@@ -6,3 +6,8 @@ Ministry of Local Government, Rural Development and Co-Operatives/Local Governme
 
 **Executing Agencies:**
 Department of Public Health Engineering (DPHE) & Palli Karma-Sahayak Foundation (PKSF)
+
+**Funded By:**
+1. International Development Association **(IDA)**
+2. Asian Infrastructure Investment Bank **(AIIB)**
+3. Government of Bangladesh **(GOB)**
